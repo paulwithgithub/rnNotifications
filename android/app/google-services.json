@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "174979766213",
+    "project_id": "notifications-d8f60",
+    "storage_bucket": "notifications-d8f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174979766213:android:c9c7d9baab9b028a931dac",
+        "android_client_info": {
+          "package_name": "com.rnnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174979766213-ca6jhe2189a19o1i8nvg5hm6p5ivk6bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7BVNOEOQ5DbbTUMOe6jJUFRZD5H11mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174979766213-ca6jhe2189a19o1i8nvg5hm6p5ivk6bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174979766213-r1ps6co5mso2e56vbobtbl97jodadtg6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.rnNoti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
